@@ -80,7 +80,7 @@ public class DrawScreen extends Canvas {
     }
 
     public void draw() {
-        gtx.setFill(Color.rgb(0, 0, 0, 0.06));
+        gtx.setFill(Color.rgb(0, 0, 0, 0.5));
         gtx.fillRect(0, 0, this.getWidth(), this.getHeight());
 
         particles.forEach(p -> {
