@@ -12,7 +12,7 @@ import javafx.stage.Screen;
  */
 public class Particle {
     
-    private final double G = 50;
+    private final double G = 250;
     private final double vel_strength = 1;
     
     private final Attractor attractor;
