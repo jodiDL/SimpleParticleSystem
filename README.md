@@ -1,6 +1,9 @@
 # SimpleParticleSystem:
 A simple particle system in javaFX using canvas.
 
+Showcase:
+https://www.youtube.com/watch?v=XEOYcSyBgf0
+
 # Details:
 - No frameworks / dependencies are used 
 - Runs smooth up to 100 000 particles (i7 6700HQ)
